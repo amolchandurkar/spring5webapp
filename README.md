@@ -1,6 +1,10 @@
 # spring5webapp
 This repository is for an example application
 # Notes
+## H2 Console
+URL: http://localhost:8080/h2-console/
+JDBC Property: jdbc:h2:mem:testdb
+
 ## JPA 2.0
 Java Community Process as JSR 317
 Approved in December of 2009
